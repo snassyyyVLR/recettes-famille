@@ -20,7 +20,9 @@ export const metadata: Metadata = {
     "Le carnet de recettes partagé de la famille : chacun ajoute ses plats préférés, tout le monde se régale. Simple, sans compte, fait avec amour.",
   applicationName: "Recettes Famille",
   icons: {
-    icon: "/favicon.svg",
+    // Must match `basePath` in next.config.ts: Next does not prefix metadata
+    // icon URLs, and the site is served from /recettes-famille/ on Pages.
+    icon: "/recettes-famille/favicon.svg",
   },
   openGraph: {
     title: "Recettes Famille",
