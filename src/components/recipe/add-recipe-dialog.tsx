@@ -157,7 +157,7 @@ export function AddRecipeDialog({ open, onOpenChange }: AddRecipeDialogProps) {
                 id="nom"
                 value={nom}
                 onChange={(e) => setNom(e.target.value)}
-                placeholder="Ex. Mamie Jeanne"
+                placeholder="Ex. Mamie Lulu"
                 className="h-11 rounded-xl pl-9"
                 aria-invalid={Boolean(errors.nom)}
                 autoComplete="name"
