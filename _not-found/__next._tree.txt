@@ -1,0 +1,5 @@
+:HL["/recettes-famille/_next/static/chunks/0rxsrv-ywd21h.css","style"]
+:HL["/recettes-famille/_next/static/chunks/2u5bq046xp1rl.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"LCHsiIkWZv5LP0QddWfBJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
